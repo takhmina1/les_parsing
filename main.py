@@ -93,3 +93,16 @@ def main():
     write_to_db(all_data)
 
 main()
+
+
+
+
+
+
+# pip install requests beautifulsoup4
+
+
+# pip install selenium
+
+# pip install lxml
+
